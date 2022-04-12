@@ -19,7 +19,7 @@ releases:
     baseid: 'kali-rolling'
     fai_classes: [KALI, KALI_ROLLING]
     arch_supports_linux_image_cloud: [amd64, arm64]
-  - name: kali-rolling
+  - name: kali-last-snapshot
     basename: kali
     id: 'kali-last-snapshot'
     baseid: 'kali-last-snapshot'
